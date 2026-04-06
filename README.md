@@ -1,2 +1,2 @@
 # Test---documentation---Udemy
-Checklist(Udemy) both of for web and mobile
+Checklist(Udemy) for both web and mobile
